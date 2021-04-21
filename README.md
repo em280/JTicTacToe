@@ -1,6 +1,8 @@
 # JTicTacToe
 
-#### Please note that work on this project is ongoing.
+Simple implementation of the Minimax Algorithm in Game Theory (TicTacToe - Finding the Optimal Move)
+
+This is a JavaFX project.
 
 ## License
 
